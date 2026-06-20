@@ -45,6 +45,14 @@ This project analyzes bookstore sales data using PostgreSQL. The data was import
 * Data Import and Export
 * Relational Database Management
 
+
+## Key Insights
+
+- Fiction books generated the highest sales.
+- Top customers contributed a significant share of revenue.
+- Some books have low inventory and may require restocking.
+- Sales performance varied across genres.
+
 ## Project Outcome
 
 Successfully analyzed bookstore data and generated insights on customer behavior, sales performance, and inventory management using PostgreSQL.
